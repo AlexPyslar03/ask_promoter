@@ -1,0 +1,8 @@
+body { /* Блока тела сайта */
+    background-color: aquamarine;
+	font-family: 'Trebuchet MS', sans-serif;
+}
+#question_text { /* Текст вопроса */
+	color: green;
+    font-size: 17px;
+}
